@@ -1,3 +1,3 @@
 # Space Invaders
 ## Building a classic game with JavaScript
-space-invaders-kappa.vercel.app
+https://space-invaders-kappa.vercel.app
